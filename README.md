@@ -15,3 +15,4 @@ Estructura HTML: Asegúrate de que los selectores de BeautifulSoup (find, find_a
 Puedes inspeccionar el HTML con las herramientas de desarrollador del navegador para ajustar estos selectores.
 Condición de Parada: La condición de parada del bucle while está basada en el número total de registros dividido por el tamaño de página. Si la web tiene una señal clara de que no hay más páginas, puedes ajustar esta lógica para detectarlo adecuadamente.
 Prueba este script y ajusta según sea necesario.
+El Resultado lo guarda en registros.csv
