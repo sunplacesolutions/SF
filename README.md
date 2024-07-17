@@ -1,11 +1,19 @@
+![XSS_Probe Logo](scraped.webp)
 # SF
 Scrap Form... 
 Es un Script en Python para scrapear todos los registros de una web en particular. 
 Para esto, utilizaremos bibliotecas como requests y BeautifulSoup. 
 Además, si la paginación se maneja a través de parámetros en la URL, podemos automatizar la navegación por todas las páginas.
 
-Primero, asegúrate de tener instaladas las bibliotecas necesarias:
-pip install requests beautifulsoup4
+## Requisitos
+Python 3.x
+Requests: pip install requests
+BeautifulSoup: pip install beautifulsoup4
+Pandas: pip install pandas
+## Uso
+## Instalar dependencias:
+pip install requests beautifulsoup4 pandas
+python scrap_form.py
 
 Notas:
 
